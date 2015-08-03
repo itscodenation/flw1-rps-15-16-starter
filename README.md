@@ -1,4 +1,4 @@
-#Project 2 - Rock, Paper, Scisso
+#Project 2 - Rock, Paper, Scissors
 ![Imgur](http://i.imgur.com/Gpy0Lkw.jpg)
 
 
