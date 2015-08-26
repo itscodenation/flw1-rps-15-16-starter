@@ -50,10 +50,10 @@ You will notice that there are comments inside the script.js file that provide i
 1. Copy the "clone URL" from this repo
 2. In your Cloud9 dashboard click on the green "Create New Workspace" button and select "Clone from URL"
 
-Once the workspace has been processed check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
+Once the workspace has been processed, check to be sure it is up to date by running ` git status ` in the terminal. You should receive a messege telling you that your branch is up to date.   
 ![Imgur](http://i.imgur.com/RKdsduL.png)
 
-**NOTE: It is common practice to push you changes to your GitHub repository often. It is recommended you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be grading you on this.**
+**NOTE: It is common practice to push your changes to your GitHub repository often. It is recommended that you make a push after every major change. Through the course of completing this project you should make 7-10 pushes to GitHub. Your manager will be rating your progress.**
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
@@ -69,17 +69,17 @@ The HTML file in this repo is not fully complete as of right now. Follow the com
 Use the comments within the script.js file to help you complete the missing components of this game. Luckily, the former intern left very detailed comments that are easy to follow.
 
 ###Bonus) 
-Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
+Your Manager has offered a stipend of $500 for each of the bonus requirements listed below: 
 
 * Add CSS to this project using Bootstrap. Give it it's own theme
 * Create a game with more variety in throwing opitons. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock) 
 ***
 
 ##Grading Criteria
-Your manager will be grading your capibility on this project based on [this rubric](/assessment.md)
+Your manager will be grading your capibility on this project based on [this rubric](/assessment.md).
 
 ##How to Submit
-This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor
+This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor.
 
 To push to GitHub run the following commands in your terminal:  
 `git status`  
