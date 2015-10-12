@@ -81,7 +81,6 @@ Your manager will be grading your capibility on this project based on [this rubr
 ##How to Submit
 The final code for this project must be pushed back up to your repo on GitHub. **Then share the link to your repo at the project submission link found in the header of the Daily Session Document (bit.ly/ScriptEd).**  
 
-at the project submission link found in the header of the Daily Session Document.
 To push to GitHub run the following commands in your terminal:  
 `git status`  
 `git add .`  
